@@ -13,3 +13,6 @@ Contains:
 -Written_reports.pdf written reports
 
 -test_agd.ipynb test notebook for adjusted gradient descent function
+
+
+NOTE: DATASET WAS TOO LARGE TO UPLOAD TO GITHUB

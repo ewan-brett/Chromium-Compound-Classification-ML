@@ -15,4 +15,4 @@ Contains:
 -test_agd.ipynb test notebook for adjusted gradient descent function
 
 
-NOTE: DATASET WAS TOO LARGE TO UPLOAD TO GITHUB
+NOTE: DATASET NOT PROVIDED - TOO LARGE TO UPLOAD TO GITHUB
